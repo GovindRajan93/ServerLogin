@@ -24,3 +24,4 @@ Each time when you want to login to a server, enter the command as "login" in th
 
 login
 
+![alt text](image.png)
