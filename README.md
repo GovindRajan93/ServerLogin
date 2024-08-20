@@ -25,3 +25,9 @@ Each time when you want to login to a server, enter the command as "login" in th
 login
 
 ![alt text](image.png)
+
+
+
+# Customize
+
+Modify the Server-Login.sh script with your linux instances rather than the default ones.
